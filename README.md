@@ -68,6 +68,8 @@
 
 ## Contact Me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alexandre-dos-santos-assis/)  
-[![Credly](https://img.shields.io/badge/Certifications-4AB2F9?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/felipe-alexandre-dos-santos-assis/badges#credly)
-[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/agonisingbasher)
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-alexandre-dos-santos-assis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.credly.com/users/felipe-alexandre-dos-santos-assis/badges#credly"><img src="https://img.shields.io/badge/Certifications-4AB2F9?style=for-the-badge&logo=credly&logoColor=white"></a>
+  <a href="https://www.twitch.tv/agonisingbasher"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+</p>
