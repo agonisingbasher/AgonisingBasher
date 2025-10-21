@@ -1,24 +1,21 @@
 # <center> 👋 Hi, I'm Felipe Alexandre</center>
 
-### So you bumped into my page! Hello there 👋.
+### Welcome to my page! 👋
 
 ---
 
 ## About me
 
-- **Technology & Civil Engineering Student**
-- **Music Enthusiast** 🎵 – studying in two conservatories, developing creativity and discipline  
-- **Language Learner** 🌍 – French & Spanish in progress  
+- **Technology Student & Developer**  
 - **Certified & Curious** – badges from Google, AWS, Fortinet, and more  
-- Passionate about **technology, problem-solving, and continuous learning**  
+- Passionate about **programming, problem-solving, and continuous learning**  
 
 ---
 
 ## What I'm doing
 
-- Working as **Jovem Aprendiz at Petrobras**, developing technical skills through SENAI  
 - Deepening **front-end and software development** knowledge  
-- Expanding expertise in **music, languages, and engineering projects**  
+- Expanding expertise in **Node.js, Python, React, TypeScript, HTML, CSS, JavaScript, and Tailwind**  
 
 ---
 
@@ -45,8 +42,6 @@
 - **Front-End Development**: HTML, CSS, JavaScript, React, TypeScript, Tailwind  
 - **Back-End & Scripting**: Node.js, Python  
 - **Cloud & Security**: AWS, Fortinet  
-- **Engineering & Civil Projects** 🏗️  
-- **Music & Creativity** 🎼  
 - **Languages**: Portuguese (Native), English (Intermediate), French & Spanish (Learning) 🌍  
 
 ---
@@ -71,7 +66,7 @@
 
 ---
 
-## Talk to me
+## Contact Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alexandre-dos-santos-assis/)  
 [![Credly](https://img.shields.io/badge/Certifications-4AB2F9?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/felipe-alexandre-dos-santos-assis/badges#credly)
