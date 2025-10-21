@@ -6,7 +6,7 @@
 
 ## About me
 
-- **Technology & Civil Engineering Student** 👨‍💻🏗️  
+- **Technology & Civil Engineering Student**
 - **Music Enthusiast** 🎵 – studying in two conservatories, developing creativity and discipline  
 - **Language Learner** 🌍 – French & Spanish in progress  
 - **Certified & Curious** – badges from Google, AWS, Fortinet, and more  
