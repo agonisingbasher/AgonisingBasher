@@ -51,8 +51,8 @@
 
 **Programming & Web Development**  
 `HTML5      🟩🟩🟩🟩🟩 100%`  
-`CSS3       🟩🟩🟩🟩🟩 100%`
-`C#         🟩🟩⬜⬜⬜ 30%`
+`CSS3       🟩🟩🟩🟩🟩 100%`  
+`C#         🟩🟩⬜⬜⬜ 30%`  
 `TypeScript 🟩🟩🟩⬜⬜ 60%`  
 `React      🟩🟩🟩⬜⬜ 60%`  
 `Node.js    🟩🟩⬜⬜⬜ 20%`  
