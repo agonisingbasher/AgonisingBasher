@@ -24,6 +24,7 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -40,7 +41,7 @@
 ## Skills
 
 - **Front-End Development**: HTML, CSS, JavaScript, React, TypeScript, Tailwind  
-- **Back-End & Scripting**: Node.js, Python  
+- **Back-End & Scripting**: Node.js, Python, C# 
 - **Cloud & Security**: AWS, Fortinet  
 - **Languages**: Portuguese (Native), English (Intermediate), French & Spanish (Learning) 🌍  
 
@@ -50,13 +51,14 @@
 
 **Programming & Web Development**  
 `HTML5      🟩🟩🟩🟩🟩 100%`  
-`CSS3       🟩🟩🟩🟩🟩 100%`  
-`JavaScript 🟩🟩🟩🟩⬜ 90%`  
-`TypeScript 🟩🟩🟩🟩⬜ 80%`  
-`React      🟩🟩🟩🟩⬜ 80%`  
-`Node.js    🟩🟩🟩⬜⬜ 70%`  
-`Python     🟩🟩⬜⬜⬜ 60%`  
-`Tailwind   🟩🟩🟩🟩⬜ 80%`  
+`CSS3       🟩🟩🟩🟩🟩 100%`
+`C#         🟩🟩🟩🟩🟩 30%`
+`JavaScript 🟩🟩⬜⬜⬜ 20%`  
+`TypeScript 🟩🟩🟩⬜⬜ 60%`  
+`React      🟩🟩🟩⬜⬜ 60%`  
+`Node.js    🟩🟩⬜⬜⬜ 20%`  
+`Python     🟩🟩⬜⬜⬜ 30%`  
+`Tailwind   🟩🟩🟩🟩⬜ 60%`  
 
 **Languages**  
 `Portuguese 🟩🟩🟩🟩🟩 Native`  
