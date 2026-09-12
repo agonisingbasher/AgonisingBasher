@@ -4,7 +4,7 @@
 
 I'm a Web Developer in training focused on **Front-end and Back-end development**, with a strong interest in **Artificial Intelligence applied to software development**.
 
-I enjoy transforming problems into practical software solutions, combining programming, system architecture, problem-solving and AI tools throughout the development process.
+I enjoy transforming real-world problems into practical software solutions, combining programming, system architecture, problem-solving and AI-assisted development throughout the development process.
 
 ---
 
@@ -16,7 +16,7 @@ I enjoy transforming problems into practical software solutions, combining progr
 * 🗄️ Database experience with **PostgreSQL**
 * 🐳 Experience with **Docker**
 * 🔐 APIs, authentication, authorization and access control
-* 🏗️ Interested in **software architecture and distributed systems**
+* 🏗️ Interested in **software architecture, system design and distributed systems**
 * 🤖 Using **Artificial Intelligence as part of my development workflow**
 * ☁️ Certifications and training in **AWS, Google Cloud and Fortinet**
 * 🌎 Continuously improving my English, Spanish and French
@@ -25,19 +25,20 @@ I enjoy transforming problems into practical software solutions, combining progr
 
 ## 🤖 AI & Development
 
-I use Artificial Intelligence not simply as a code generator, but as a **development and problem-solving tool**.
+I use Artificial Intelligence not simply as a code generator, but as a **development, research and problem-solving tool**.
 
-My approach is based on orchestrating AI tools together with my own programming knowledge across different stages of a project, including:
+My approach combines my own programming and systems knowledge with AI tools throughout different stages of a project:
 
-* 🔎 Problem analysis
+* 🔎 Problem and requirements analysis
 * 🧠 Solution planning
-* 🏗️ Architecture and technical decisions
+* 🏗️ System design and technical decisions
+* 🎨 UI/UX exploration and prototyping
 * 💻 Implementation
 * 🔍 Code review and improvement
 * 🐛 Debugging and troubleshooting
-* 📚 Research and continuous learning
+* 📚 Research, documentation and continuous learning
 
-My goal is to combine **human technical reasoning + AI capabilities** to build better software and solve problems more efficiently.
+I consider this approach **AI orchestration**: using different AI capabilities together with human technical reasoning, validating suggestions and making the final engineering decisions.
 
 ---
 
@@ -81,33 +82,120 @@ My goal is to combine **human technical reasoning + AI capabilities** to build b
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Project
 
-### 🏢 CCB / APG — Management System
+### 🏢 CCB / APG — Volunteer Management & Operations System
 
-A Full Stack Web application developed to manage processes, services and operational information in a structured environment.
+A **real-world Full Stack Web application** currently being developed as a volunteer project for my church.
 
-**Technologies & concepts:**
+The platform was conceived to centralize information and optimize the management of **volunteers, services, operational requests and compliance-related processes**, replacing fragmented and manual workflows with a structured web-based solution.
 
-* React + TypeScript
+### 🎯 Project Context
+
+The project is being developed collaboratively by a multidisciplinary team composed of:
+
+* 2 Senior Developers / Tech Leads
+* 1 Mid-level Developer
+* 1 Junior Developer — me
+* 1 Junior QA
+* 1 Construction/Business Specialist supporting business rules and field validation
+
+I am responsible for the **initial conception, system planning, functional organization and a significant part of the implementation**.
+
+The Senior Developers act as technical leads, reviewing architectural decisions, identifying possible redundancies, suggesting optimizations and helping maintain code quality and scalability. We also discuss UI/UX decisions and the functionalities required to meet real operational needs.
+
+### 🚀 Main Features
+
+* 👥 **Volunteer Management**
+* 📋 **ASO (Occupational Health Certificate) control**
+* 🦺 **Training and compliance tracking**
+* 🏗️ **NR-35-related safety control**
+* 🎫 **Service request / ticket management**
+* 📊 **Service status tracking**
+* 🔄 **Operational workflow management**
+* 🔐 **Secure authentication and access control**
+* 📢 **Community announcements**
+* 📝 **Audit and activity records**
+* 🤖 **AI-powered assistant**
+* 📡 **API and external service integration**
+
+### 🤖 Intelligent Assistant
+
+One of the project's main differentiators is an **intelligent assistant that I designed and developed specifically for the platform**.
+
+Instead of relying entirely on an external chatbot that may generate responses unrelated to the project's context, the assistant was designed to prioritize information that belongs to the application and its operational environment.
+
+Its response mechanism uses **user-provided terms/tokens, contextual matching and probabilistic relevance scoring** to identify the most likely intended topic and select the most appropriate response.
+
+The goal is to provide responses that are:
+
+* 🎯 Context-aware
+* 📚 Restricted to the project's relevant knowledge
+* 🔎 Based on the user's input
+* 📊 Ranked using relevance/probability criteria
+* ⚡ Lightweight and integrated directly into the application
+
+This approach allows the platform to have its own intelligent assistance layer without depending exclusively on an external conversational system for project-specific information.
+
+
+### 🧠 System Planning & AI Orchestration
+
+The system's initial ideas and workflows are developed from real operational needs.
+
+My current process usually follows:
+
+**Problem → Requirements → Workflow → System Design → UI/UX Exploration → Implementation → Review → Optimization**
+
+For planning and visualization, I use tools such as **Excalidraw**, UI/UX prototyping resources and AI-assisted design exploration.
+
+AI is also used to help investigate alternatives, improve written requirements, explore possible interfaces, review approaches and accelerate implementation. I then evaluate those suggestions using my own technical knowledge and the project's requirements before deciding what should actually be implemented.
+
+This workflow is one of the main ways I practice **AI orchestration in software development**.
+
+### 🛠️ Technologies & Concepts
+
+**Front-end**
+
+* React
+* TypeScript
 * Tailwind CSS
-* C# / .NET 8
-* PostgreSQL
-* Docker
+
+**Back-end**
+
+* C#
+* .NET 8
 * REST APIs
-* Authentication & authorization
-* JWT / Refresh Token
+
+**Database**
+
+* PostgreSQL
+
+**Infrastructure**
+
+* Docker
+
+**Security & Architecture**
+
+* Authentication
+* Authorization
+* JWT / Refresh Tokens
 * Role-based access control
 * Audit logs
-* External API integration
-* Artificial Intelligence integration
 * Service-oriented architecture
 
-The project is focused on applying software engineering concepts to a scenario closer to a **real-world application**, combining Front-end, Back-end, database, security, infrastructure and AI.
+**Artificial Intelligence**
+
+* AI-assisted development
+* AI-powered platform assistant
+* Structured data + AI integration
+
+> 🚧 This is an active real-world project under continuous development.
 
 ---
 
-### 🛒 Demo-Loja
+## 🛒 Other Projects
+
+### Demo-Loja
 
 A Front-end project developed to practice and demonstrate modern Web Development concepts.
 
@@ -172,6 +260,6 @@ I have completed certifications and training related to:
 
 ---
 
-### 💡 Building, learning and turning ideas into real-world solutions.
+### 💡 Building, learning and turning real-world problems into software solutions.
 
 ⭐ Thanks for visiting my profile!
