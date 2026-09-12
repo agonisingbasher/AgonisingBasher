@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Felipe Alexandre
+# <center> 👋 Hi, I'm Felipe Alexandre</center>
+
+### Welcome to my page! 👋
+
+---
 
 ### Web Developer in Training | Full Stack | React • TypeScript • C#/.NET
 
